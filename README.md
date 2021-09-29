@@ -1,2 +1,2 @@
-# type-studies
+# Type Studies
 Studying type technologies
